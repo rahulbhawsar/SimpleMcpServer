@@ -1,4 +1,4 @@
-# Wikpeida Readme file 
+# wikipedia Readme file 
 
 # how to run the server 
 
